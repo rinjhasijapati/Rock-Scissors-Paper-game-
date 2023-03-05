@@ -1,0 +1,38 @@
+#playerText{
+    font-family: 'Times New Roman', Times, serif;
+    color:aliceblue;
+}
+
+body{
+    background: linear-gradient(#000428 ,#004e92);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#computerText{
+    font-family: 'Times New Roman', Times, serif;
+    color:aliceblue;
+}
+
+#resultText{
+    font-family: 'Times New Roman', Times, serif;
+    color:aliceblue;
+}
+
+.choiceBtn{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18;
+}
+
+#gameDiv{
+    /* border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    text-align:center;
+    background-color:burlywood;
+    border-width: 0px; */
+    position: relative;
+    top: 200px;
+    left:680px;
+
+}
